@@ -2,13 +2,13 @@
 
 This capstone course has resulted in me building a portfolio that showcases my abilities as a software developer. Returning to past projects has allowed me to apply the skills acquired over the course of my education. My previous classes taught me how to collaborate with multiple developers on a shared git repository. This gave me the ability to merge branches while solving conflicts, and communicate with a team to achieve acceptable outcomes. In CS330, I learned how to configure a build environment to develop a complex 3D graphics application that tied together several libraries and the OpenGL API. In the process of enhancing my artifact from that class, I produced an expandable and maintainable improvement on the original project. In CS260, I was introduced to a variety of data structures, such as linked lists and binary trees. I learned the strengths and weaknesses of the structures and formed an idea of where to best use them. I also learned about several sorting algorithms, and their proper application. My enhancement to a binary tree example program involved transforming a technical demonstration into a practical tool. In CS340 I learned about combining databases with server infrastructure, culminating in a HTTP API used to interface with a mongoDB database. This linked together my basic knowledge of databases with a convenient interface to the raw structure. My enhancement to this project was an actual web interface to the underlying API. This involved serving a static HTML page along with javascript to perform proper requests to the API. My previous classes have taught me how to code securely, by following best practices and specific organization guidelines. This includes guarding against common problems such as over/underflows and code injection. I have applied this knowledge to applications I have worked on since then and strive to produce secure, easily inspected code. Finally, I have learned how to perform code reviews. This has let me examine my own and others code in a critical manner that allows me to constructively build on the existing functionality and improve deficiencies.
  
- ## Code Review
+## Code Review
  
- [Code review on Youtube](https://youtu.be/fLc67JjCYO0)
+[Code review on Youtube](https://youtu.be/fLc67JjCYO0)
  
- ## Artifact I.
+## Artifact I.
  
- [Artifact I. Link](https://github.com/BryanR-SNHU/CS330)
+[Artifact I. Link](https://github.com/BryanR-SNHU/CS330)
  
 The artifact used in this first enhancement is the final project from CS330 Computational Graphics and Visualization. It is a 3D model viewer that displays a hand coded model of a fork. The application allows pitch, yaw, and zoom adjustment by holding down the left or right mouse buttons. Additionally, the w, s, and p keys toggle a variety of display options.
 
@@ -18,9 +18,9 @@ My improvements to the artifact largely focused on reducing clutter and increasi
 
 Enhancing this artifact really made me appreciate the difficulty of returning to old code. Not just the process of getting up to speed, but the discomfort of seeing your old mistakes. Graphics interface code is somewhat odd, and it took some time to get back in the swing of things. While relearning how my application worked was challenging, I enjoyed planning out and implementing improvements. There was a real sense of satisfaction and accomplishment in getting to do it right.
  
- ## Artifact II.
+## Artifact II.
  
- [Artifact II. Link](https://github.com/BryanR-SNHU/CS260-BinarySearchTree)
+[Artifact II. Link](https://github.com/BryanR-SNHU/CS260-BinarySearchTree)
  
 The artifact I chose for this enhancement is the binary search tree example from CS260 Data Structures and Algorithms. In its original form, it was a simple demonstration of the process of reading a csv file and placing its contents into a binary tree structure. The application also allowed adding and removing nodes from the tree.
 
@@ -30,9 +30,9 @@ I improved the application by giving it the ability to output the modified binar
 
 One of the difficulties I faced when working on this artifact was reassembling a working application from one source file. Back when I saved my work for this project, I only kept the BinarySearchTree.cpp file that I submitted. I needed to search online to locate the additional files for csv parsing and the csv file itself. Besides that main problem, I had to get very familiar with both the JSON format and manipulating strings in C++. No matter how many times I learn how strings work in C++, I always seem to need to relearn them for each project.
  
- ## Artifact III.
+## Artifact III.
  
- [Artifact III. Link](https://github.com/BryanR-SNHU/CS340)
+[Artifact III. Link](https://github.com/BryanR-SNHU/CS340)
  
 For this enhancement, I chose the module 7 assignment from CS340 Client/Server Development. This is a python based RESTful web server that acts as an API for a mongoDB database. The application demonstrates a variety of features required in a CRUD (Create, Read, Update, Delete) database interface. The API provides several query interfaces, as well as update and delete options.
 
